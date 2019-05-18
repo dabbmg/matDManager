@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="devclockLogin"
+    errors="0" failures="0" hostname="" id="" package="devclockLogin" skipped="0"
+    tests="1" time="3.646" timestamp="">
+  
+    <testcase name="Can log in with an existing account" classname="devclockLogin" time="3.646" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

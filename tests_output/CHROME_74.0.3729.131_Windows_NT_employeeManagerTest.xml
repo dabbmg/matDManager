@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="10">
+
+  <testsuite name="employeeManagerTest"
+    errors="0" failures="0" hostname="" id="" package="employeeManagerTest" skipped="0"
+    tests="10" time="3.256" timestamp="">
+  
+    <testcase name="Can we see employee files and do they display the correct information" classname="employeeManagerTest" time="0.6320" assertions="13">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Can we modify employee files" classname="employeeManagerTest" time="0.4800" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Invalid Name Error Test/Does the Name Entry Accept over 30 Characters" classname="employeeManagerTest" time="0.2900" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check phone number field only accepts 10 characters" classname="employeeManagerTest" time="0.2300" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Every editable field should be populated to save" classname="employeeManagerTest" time="0.1650" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Saving a change should persist as you access other records" classname="employeeManagerTest" time="0.3380" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Cancel Button Functionality" classname="employeeManagerTest" time="0.2260" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Red Underline Test" classname="employeeManagerTest" time="0.2200" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Can save after error is presented" classname="employeeManagerTest" time="0.3350" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Add New Employee" classname="employeeManagerTest" time="0.3400" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
