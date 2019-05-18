@@ -5,6 +5,7 @@ let invalidInputTests = require('../test-assets/invalidInputTests')
 let modCancelCheck = require('../test-assets/modCancelCheck')
 let addDeleteEmployee = require('../test-assets/addDeleteEmployee')
 let saveAfterError = require('../test-assets/saveAfterError')
+let searchBarTest = require('../test-assets/searchBarTest')
 
 var managerCommands = {
     infoChck: function(em2Page) {
@@ -29,6 +30,10 @@ var managerCommands = {
     },
     saveAfterErr: function(em2Page) {
         saveAfterError(em2Page)
+        return this
+    },
+    searchTest: function(em2Page) {
+        searchBarTest(em2Page)
         return this
     }
 }

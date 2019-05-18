@@ -1,44 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites errors="0"
             failures="0"
-            tests="6">
+            tests="1">
 
   <testsuite name="employeeManagerV2.0Test"
     errors="0" failures="0" hostname="" id="" package="employeeManagerV2.0Test" skipped="0"
-    tests="6" time="14.28" timestamp="">
+    tests="1" time="5.814" timestamp="">
   
-    <testcase name="Info Check" classname="employeeManagerV2.0Test" time="1.712" assertions="5">
-
-    
-
-    
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Modification Save Check" classname="employeeManagerV2.0Test" time="2.115" assertions="4">
-
-    
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Modification Cancel Check" classname="employeeManagerV2.0Test" time="2.765" assertions="2">
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Invalid Input Error Tests" classname="employeeManagerV2.0Test" time="3.921" assertions="9">
+    <testcase name="Search Functionality Test" classname="employeeManagerV2.0Test" time="5.814" assertions="13">
 
     
 
@@ -57,22 +26,10 @@
     
 
     
-    </testcase>
-  
-    <testcase name="Add and Delete Employees" classname="employeeManagerV2.0Test" time="2.798" assertions="5">
 
     
 
     
-
-    
-
-    
-
-    
-    </testcase>
-  
-    <testcase name="Save after fixing an Error" classname="employeeManagerV2.0Test" time="0.9640" assertions="2">
 
     
 

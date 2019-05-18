@@ -31,5 +31,9 @@ module.exports = {
     'Save after fixing an Error': browser =>{
         em2Page
         .saveAfterErr(browser)
+    },
+    'Search Functionality Test': browser =>{
+        em2Page
+        .searchTest(browser)
     }
 }
