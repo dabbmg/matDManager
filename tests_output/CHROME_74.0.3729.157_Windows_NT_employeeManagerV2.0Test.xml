@@ -1,13 +1,85 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites errors="0"
             failures="0"
-            tests="1">
+            tests="7">
 
   <testsuite name="employeeManagerV2.0Test"
     errors="0" failures="0" hostname="" id="" package="employeeManagerV2.0Test" skipped="0"
-    tests="1" time="5.814" timestamp="">
+    tests="7" time="19.61" timestamp="">
   
-    <testcase name="Search Functionality Test" classname="employeeManagerV2.0Test" time="5.814" assertions="13">
+    <testcase name="Info Check" classname="employeeManagerV2.0Test" time="1.879" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Modification Save Check" classname="employeeManagerV2.0Test" time="2.040" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Modification Cancel Check" classname="employeeManagerV2.0Test" time="2.717" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Invalid Input Error Tests" classname="employeeManagerV2.0Test" time="3.899" assertions="9">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Add and Delete Employees" classname="employeeManagerV2.0Test" time="2.778" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Save after fixing an Error" classname="employeeManagerV2.0Test" time="0.9160" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Search Functionality Test" classname="employeeManagerV2.0Test" time="5.379" assertions="13">
 
     
 
